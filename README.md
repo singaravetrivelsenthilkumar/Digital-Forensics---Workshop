@@ -76,8 +76,11 @@ Add the installation directory to the system PATH for easy command-line access.
 - Allow Autopsy to process the disk.
 ## C. Running the Analysis
 1.Start processing the disk or folder.
+
 2.Wait for Autopsy to generate reports.
+
 3.Analyze deleted files, metadata, and hidden data in the results.
+
 ## 4. Using Sleuth Kit from Command Line
 ### A. Ckecking sleuthkit Version
 ```
