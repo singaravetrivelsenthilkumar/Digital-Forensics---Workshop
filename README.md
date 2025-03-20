@@ -12,11 +12,24 @@ Digital forensics involves extracting and analyzing data from digital devices to
 ### A. Installing Sleuth Kit & Autopsy on Windows
 1.Download Autopsy
 - Visit Autopsy Official Website and download the latest version.
-2.Run the Installer
 - Double-click the downloaded file and follow the on-screen instructions.
-3.Verify Installation
+![{660CA88E-DE17-4556-89B5-38945EF3AA31}](https://github.com/user-attachments/assets/d5cf2c90-4fc9-453e-93ff-ef64378dd232)
+
+2.Installation Process
 - Launch Autopsy to check if it works correctly.
-- Sleuth Kit tools are included with Autopsy.
+  ![Screenshot 2025-03-20 112320](https://github.com/user-attachments/assets/cc1fe43b-5c38-448b-b04c-611d7303273c)
+  
+- Choose Directory
+  ![Screenshot 2025-03-20 112332](https://github.com/user-attachments/assets/6571866c-21af-4314-8ae2-ed372625a4e7)
+  
+- Give install
+  ![Screenshot 2025-03-20 112339](https://github.com/user-attachments/assets/15efe313-01bb-4a21-a8ec-5b15afd66a20)
+  ![Screenshot 2025-03-20 112358](https://github.com/user-attachments/assets/8abf07cf-8382-4a93-bd01-754b220af25e)
+
+- Successfully installed
+  ![Screenshot 2025-03-20 112447](https://github.com/user-attachments/assets/394e94bf-99d2-4af6-a070-fa64f09879b4)
+  
+
 ## B. Installing Sleuth Kit Separately (Optional)
 Download Sleuth Kit from https://www.sleuthkit.org.
 Extract and install it manually if needed.
