@@ -11,8 +11,8 @@ Digital forensics involves extracting and analyzing data from digital devices to
 - Double-click the downloaded file and follow the on-screen instructions.
 3.Verify Installation
 - Launch Autopsy to check if it works correctly.
-### B.Sleuth Kit tools are included with Autopsy.
-B. Installing Sleuth Kit Separately (Optional)
+- Sleuth Kit tools are included with Autopsy.
+## B. Installing Sleuth Kit Separately (Optional)
 Download Sleuth Kit from https://www.sleuthkit.org.
 Extract and install it manually if needed.
 Add the installation directory to the system PATH for easy command-line access.
