@@ -28,10 +28,14 @@ Digital forensics involves extracting and analyzing data from digital devices to
 
 - Successfully installed
   ![Screenshot 2025-03-20 112447](https://github.com/user-attachments/assets/394e94bf-99d2-4af6-a070-fa64f09879b4)
-  
+
+- Autopsy Interface
+  ![Screenshot 2025-03-19 222716](https://github.com/user-attachments/assets/3f8dfb03-55b2-4553-8475-de3595a56ff0)
 
 ## B. Installing Sleuth Kit Separately (Optional)
-Download Sleuth Kit from https://www.sleuthkit.org.
+Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php.
+![{FAC04ED6-02D9-4D2A-A73C-CDADA79B7939}](https://github.com/user-attachments/assets/216ff656-18eb-497f-a795-3ca4112e758c)
+
 Extract and install it manually if needed.
 Add the installation directory to the system PATH for easy command-line access.
 ## Using Autopsy to Analyze a Disk or Folder
