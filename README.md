@@ -38,6 +38,8 @@ Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php.
 
 Extract and install it manually if needed.
 Add the installation directory to the system PATH for easy command-line access.
+![{297520CA-14A7-4A4D-8C03-99E190C2C345}](https://github.com/user-attachments/assets/af8d1960-bab6-4810-9778-616f2305f52f)
+
 ## Using Autopsy to Analyze a Disk or Folder
 ### A. Creating a New Case
 1.Open Autopsy and select "Create New Case."
