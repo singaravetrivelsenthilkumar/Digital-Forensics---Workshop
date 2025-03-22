@@ -1,6 +1,6 @@
 
 # Workshop on Digital Forensics
-Installation and Usage of Sleuth Kit & Autopsy
+Installation of Sleuth Kit & Autopsy
 ```
 Register Number: 212222100050
 Name: Sivaram R
