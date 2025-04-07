@@ -2,8 +2,8 @@
 # Workshop on Digital Forensics
 Installation of Sleuth Kit & Autopsy
 ```
-Register Number: 212222100002
-Name: Aakashraj M
+Register Number: 212222220048
+Name: Singaravetrivel S
 ```
 ## Introduction
 Digital forensics involves extracting and analyzing data from digital devices to investigate cybercrimes. Sleuth Kit and Autopsy are widely used open-source tools for forensic analysis.
